@@ -1,5 +1,5 @@
 {
-  "name": "simple-module",
+  "name": "dev-simple-module",
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
